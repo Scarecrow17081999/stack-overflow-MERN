@@ -1,0 +1,6 @@
+.main-questions {
+  display: flex;
+  /* flex-direction: column; */
+  /* justify-content: flex-start !important; */
+  /* margin-right: auto; */
+}
